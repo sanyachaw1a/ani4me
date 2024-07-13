@@ -1,0 +1,5 @@
+#Code Checking
+python-ta~=2.4.2
+
+#graphics and data entry
+pygame==2.1.3.dev8
